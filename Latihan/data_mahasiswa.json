@@ -1,0 +1,15 @@
+{ "data_mahasiswa": [
+    {
+            "NIM":"18220049",
+            "Nama":"Rachmad Hidayat"
+    },
+    {
+            "NIM":"18220057",
+            "Nama":"Muhammad Ardi Avicenna"
+    },
+    {
+            "NIM":"18220095",
+            "Nama":"Tubagus Baraka Kautsar S."
+    }
+    ]
+}
